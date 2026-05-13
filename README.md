@@ -18,28 +18,6 @@
 
 ---
 
-## 🧠 About Me
-
-```text
-🎓 Computer Engineering Student  
-💻 Focused on Backend Development  
-⚙️ Building projects with C# (.NET) and Python  
-📚 Passionate about clean code and software architecture  
-🚀 Always improving and learning new technologies
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quantum-root&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum-root&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
