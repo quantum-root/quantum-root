@@ -1,18 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f0f0f,100:0d1b2a&height=240&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=180&section=header&text=ACCESS%20GRANTED&fontSize=40&fontColor=00FF00&animation=fadeIn" />
 </p>
 
-<h3 align="center" style="color:#00f7ff;">
-  Cyberpunk Backend Developer | C# .NET • Python
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Initializing+Systems...;C%23+.NET+Backend+Engineer;Python+Automation+Developer;Building+Clean+Architecture;Neon+Code+Mode+Activated" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+System...;Decrypting+Modules...;C%23+.NET+Backend+Node;Python+Automation+Layer;Access+Level:+Developer" />
 </p>
 
 ---
 
-## ⚡ SYSTEM MODULES
+## 🧬 SYSTEM STATUS
+
+```
+USER: AUTHORIZED
+ROLE: SOFTWARE ENGINEER (IN PROGRESS)
+FOCUS: BACKEND DEVELOPMENT
+LANGUAGES: C#, PYTHON
+MODE: LEARNING / BUILDING
+```
+
+---
+
+## ⚙️ CORE STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,cs,dotnet,vscode" />
@@ -20,16 +28,18 @@
 
 ---
 
-## 📡 CONNECTION STATUS
+## 📡 ACTIVITY SIGNAL
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quantum-root&label=VISITORS&color=00f7ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=quantum-root&label=ACCESS%20LOGS&color=00ff00&style=flat" />
 </p>
 
 ---
 
-## 🧠 CORE PRINCIPLE
+## 🧠 RULE SET
 
-<p align="center">
-  <b style="color:#00f7ff;">BUILD • BREAK • IMPROVE</b>
-</p>
+```
+1. BUILD SYSTEMS
+2. BREAK LIMITS
+3. REWRITE BETTER CODE
+```
