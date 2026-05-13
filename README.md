@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Coding, Learning, Improving</h1>
 
 <h3 align="center">Focused on Backend Development & Clean Code</h3>
