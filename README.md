@@ -1,37 +1,33 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+Secure+Connection...;Bypassing+Firewall...;Decrypting+User+Data...;Authenticating+Identity...;ACCESS+GRANTED" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Coding%20Learning%20Improving&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">Focused on Backend Development & Clean Code</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=C%23+.NET+Developer;Python+Developer;Backend+Development;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🧬 TERMINAL LOG
-
-```bash
-[BOOT] System starting...
-[OK] Kernel loaded
-[OK] Security modules active
-[INFO] Checking user credentials...
-[WARN] Unknown access attempt detected
-[INFO] Verifying identity...
-[OK] Developer profile recognized
-[ACCESS GRANTED]
-Welcome back, operator.
-```
-
----
-
-## ⚙️ SYSTEM STATUS
-
-```
-MODE: DEVELOPER
-ENV: BACKEND ENGINEERING
-LANGS: C#, PYTHON
-SECURITY LEVEL: HIGH
-FOCUS: CLEAN ARCHITECTURE
-```
-
----
+## 🚀 Technologies & Tools
 
 <p align="center">
-  <b style="color:#00ff00;">>>> TERMINAL SESSION ACTIVE <<<</b>
+  <img src="https://skillicons.dev/icons?i=python,git,github,cs,dotnet,vscode" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quantum-root&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💭 Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
 </p>
