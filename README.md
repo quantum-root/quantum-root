@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1f1f1f,100:2c3e50&height=240&section=header&text=BUILD.%20LEARN.%20IMPROVE.&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f0f0f,100:0d1b2a&height=240&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">Focused on Backend Development & Clean Architecture</h3>
+<h3 align="center" style="color:#00f7ff;">
+  Cyberpunk Backend Developer | C# .NET • Python
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=C%23+.NET+Backend+Developer;Python+Automation+Developer;REST+API+Design;Clean+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Initializing+Systems...;C%23+.NET+Backend+Engineer;Python+Automation+Developer;Building+Clean+Architecture;Neon+Code+Mode+Activated" />
 </p>
 
 ---
 
-## 🚀 Technologies & Tools
+## ⚡ SYSTEM MODULES
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,cs,dotnet,vscode" />
@@ -18,8 +20,16 @@
 
 ---
 
-## 👀 Profile Views
+## 📡 CONNECTION STATUS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quantum-root&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=quantum-root&label=VISITORS&color=00f7ff&style=flat" />
+</p>
+
+---
+
+## 🧠 CORE PRINCIPLE
+
+<p align="center">
+  <b style="color:#00f7ff;">BUILD • BREAK • IMPROVE</b>
 </p>
