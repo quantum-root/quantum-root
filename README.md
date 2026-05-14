@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Coding%20•%20Learning%20•%20Improving&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=51E051&center=true&vCenter=true&width=600&lines=%3E_Executing+Backend+Logic...;%3E_System.Ready();%3E_Learning+New+Techs..." />
 </p>
 
 <h3 align="center">Focused on Backend Development & Clean Code</h3>
