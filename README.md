@@ -27,3 +27,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quantum-root&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=quantum-root&theme=tokyonight"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=quantum-root&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
