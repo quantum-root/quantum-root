@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Technologies & Tools.
+## 🚀 Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,cs,dotnet,vscode" />
@@ -25,14 +25,22 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quantum-root&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=quantum-root&label=Profile+Views&color=7aa2f7&style=for-the-badge" />
 </p>
 
 ---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=quantum-root&theme=tokyonight"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=quantum-root&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=quantum-root&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
