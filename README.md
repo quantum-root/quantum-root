@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./background.jpg" alt="Background" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=51E051&center=true&vCenter=true&width=600&lines=%3E_Executing+Backend+Logic...;%3E_System.Ready();%3E_Learning+New+Techs..." />
 </p>
 
