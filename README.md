@@ -32,8 +32,19 @@
 
 ## 🔥 GitHub Streak
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quantum-root&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=quantum-root&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=quantum-root&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quantum-root&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
