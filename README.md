@@ -9,7 +9,7 @@
 <h3 align="center">Focused on Backend Development & Clean Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&center=true&vCenter=true&lines=C%23+.NET+Learner;Python+Learner;Backend+Development;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&center=true&vCenter=true&lines=Backend+Development;Clean+Architecture;Problem+Solving;Turning+Ideas+Into+Code" />
 </p>
 
 ---
