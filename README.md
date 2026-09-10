@@ -1,12 +1,7 @@
+<h2 align="center">Backend Development & Architecture 💻</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&lines=%3E_Executing+Backend+Logic...;%3E_System.Ready();%3E_Learning+New+Techs..." />
-</p>
-
-<h3 align="center">Focused on Backend Development & Clean Code</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=70a5fd&center=true&vCenter=true&lines=Backend+Development;Clean+Architecture;Problem+Solving;Turning+Ideas+Into+Code" />
+  💻 Building robust backend systems &nbsp;|&nbsp; 📐 Learning Clean Architecture &nbsp;|&nbsp; ☕ Always Learning
 </p>
 
 ---
@@ -14,42 +9,11 @@
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,cs,dotnet,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,git,github,vscode" />
 </p>
 
 ---
-
-## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quantum-root&label=Profile+Views&color=7aa2f7&style=for-the-badge" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quantum-root&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=quantum-root&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quantum-root&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=quantum-root&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
